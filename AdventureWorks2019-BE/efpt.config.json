@@ -1,0 +1,89 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "AdventureWorks2019Context",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": "Data",
+   "OutputPath": "Data",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "AdventureWorks2019BE",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[Person].[Address]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[Person].[AddressType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[Person].[BusinessEntity]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[Person].[BusinessEntityAddress]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[Person].[BusinessEntityContact]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[Person].[ContactType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[Person].[CountryRegion]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[Person].[EmailAddress]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[Person].[Password]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[Person].[Person]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[Person].[PersonPhone]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[Person].[PhoneNumberType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[Person].[StateProvince]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "DESKTOP-5LTJ6RM.AdventureWorks2019",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}

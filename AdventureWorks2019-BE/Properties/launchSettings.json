@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "AdventureWorks2019-BE": {
+    "AdventureWorks2019BE": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

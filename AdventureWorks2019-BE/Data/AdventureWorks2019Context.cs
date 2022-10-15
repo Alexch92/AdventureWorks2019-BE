@@ -25,7 +25,7 @@ namespace AdventureWorks2019BE.Data
         public virtual DbSet<CountryRegion> CountryRegions { get; set; }
         public virtual DbSet<EmailAddress> EmailAddresses { get; set; }
         public virtual DbSet<Password> Passwords { get; set; }
-        public virtual DbSet<Person> People { get; set; }
+        public virtual DbSet<Person> Peoples { get; set; }
         public virtual DbSet<PersonPhone> PersonPhones { get; set; }
         public virtual DbSet<PhoneNumberType> PhoneNumberTypes { get; set; }
         public virtual DbSet<StateProvince> StateProvinces { get; set; }

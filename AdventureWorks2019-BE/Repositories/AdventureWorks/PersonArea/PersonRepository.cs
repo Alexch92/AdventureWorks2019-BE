@@ -15,7 +15,7 @@ namespace AdventureWorks2019BE.Repositories.AdventureWorks.PersonArea
         public async Task<Person> FindById(int id)
         {
             Person? query = await _context.Peoples!
-                                          //.Include(r => r.PersonPhones)
+                                          //.Include(r => r.PersonPhones) 
                                           .Where(x => x.BusinessEntityID == id)
                                           .AsNoTracking()
                                           .FirstOrDefaultAsync();
